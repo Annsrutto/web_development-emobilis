@@ -11,4 +11,3 @@ for letter in word:
 print("\nLetter count")
 for letter, count in letter_count.items():
     print(f"{letter}: {count}")
-
