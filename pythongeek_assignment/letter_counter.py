@@ -1,4 +1,4 @@
-word = input("Please enter a word: ")
+word = input("Please enter a word: ").lower()
 
 letter_count = {}
 
